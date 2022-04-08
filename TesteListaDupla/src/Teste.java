@@ -8,8 +8,9 @@ public class Teste {
 		lista.inicio = null;
 		lista.inserir("Luan", 123);
 		lista.inserir("Julia", 456);
+		lista.inserir("Sandra", 264);
 		
-		lista.imprimir();		
+		lista.imprimir();	
 		
 		//comentario feito pelo git
 
